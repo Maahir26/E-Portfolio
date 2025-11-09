@@ -3,9 +3,6 @@
 Welcome to my personal portfolio built with React and Tailwind CSS.  
 This repository showcases my skills, projects, and experience as a Computer Science graduate and aspiring Cloud & DevOps engineer.
 
-<!--- banner image (optional) --->
-![Portfolio Banner](./banner.png)
-
 ## 🚀 Live Demo  
 Explore the live version here: [e-portfolio-delta-sand.vercel.app](https://e-portfolio-delta-sand.vercel.app/)
 
