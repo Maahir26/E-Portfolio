@@ -13,16 +13,6 @@ This site was built using:
 - A clean, single-page portfolio layout featuring sections for Hero, About, Skills, Projects, Contact, and a Theme Toggle.  
 - Responsive design with light/dark mode support.
 
-## 🛠️ Features  
-| Section      | Highlights                                                              |
-|--------------|-------------------------------------------------------------------------|
-| Hero         | Eye-catching intro and theme toggle                                     |
-| About        | Overview of my background, education, and goals                         |
-| Skills       | Front-end, back-end, and tools skills visualised with progress bars     |
-| Projects      | Selected work including images and links to live demos or GitHub repos   |
-| Contact      | Simple contact form and links to LinkedIn, GitHub, and email            |
-| Dark Mode    | Toggle switch to switch between light and dark themes                   |
-
 ## 🧩 Skills Summary  
 Here’s a quick snapshot of the tech I work with:  
 - **Frontend**: HTML/CSS, JavaScript, TypeScript, React, Tailwind CSS, Next.js  
