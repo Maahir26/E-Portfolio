@@ -31,7 +31,7 @@ Here’s a quick snapshot of the tech I work with:
 
 📬 Contact
 
-LinkedIn: Maahir Sidhu
+LinkedIn: https://www.linkedin.com/in/maahir-sidhu-5b87a1154/
 
 GitHub: @Maahir26
 
